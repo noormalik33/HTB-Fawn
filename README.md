@@ -108,6 +108,7 @@ Contributions are welcome! Please fork the repository, make changes, and submit 
 Contact 📬
 For questions, feedback, or collaboration, reach out to:
 
+---
 
 ## 👨‍💻 Developer
 
